@@ -10,7 +10,7 @@ Technology Used:
   - Genome data analysis through genome browser.
 
 
-Computational Steps- 
+Computational Steps: 
 - Analyzed human genome to find out promoter.
 - Analyzed human genome to find out enhancer.
 - Analyzed human genome to find out known genes.
